@@ -1,5 +1,5 @@
 ---
 taxonomyCloud: []
-title: Security Fundamentals
+title: Ethical Hacking
 weight: 20
 ---

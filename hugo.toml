@@ -1,6 +1,6 @@
-baseURL = 'https://armur.ai/security-fundamentals'
+baseURL = 'https://armur.ai/ethical-hacking'
 languageCode = 'en-us'
-title = 'Security Fundamentals'
+title = 'Ethical Hacking'
 contentDir = "content"
 enableEmoji = true
 enableGitInfo = true # N.B. .GitInfo does not currently function with git submodule content directories
@@ -62,7 +62,7 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with git submod
         prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
-        repoURL         = "https://github.com/Armur-Ai/armur-blog-securityfundamentals"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoURL         = "https://github.com/Armur-Ai/armur-blog-ethicalhacking"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "release"
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
