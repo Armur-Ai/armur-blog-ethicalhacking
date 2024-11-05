@@ -1,7 +1,6 @@
 ---
-title: "Ethical Hacking for beginners"
-description: "Ethical Hacking for beginners"
-image: "https://armur-ai.github.io/armur-blog-ethicalhacking/images/security-fundamentals.png"
+title: "Reconnaissance Tools"
+image: "https://armur-ai.github.io/armur-blog-ethicalhacking/images/2.avif"
 icon: "code"
 draft: false
 ---

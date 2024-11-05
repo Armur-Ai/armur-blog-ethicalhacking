@@ -3,14 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ethical-hacking/docs/</loc>
-    <lastmod>2024-07-11T12:16:25+05:30</lastmod>
+    <lastmod>2024-07-11T14:14:05+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/ethical-hacking/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/ethical-hacking/docs/eh-fundamentals/eh-1/essential-reconnaissance-tools/</loc>
+  </url><url>
     <loc>http://localhost:1313/ethical-hacking/</loc>
-    <lastmod>2024-07-11T12:16:25+05:30</lastmod>
+    <lastmod>2024-07-11T14:14:05+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ethical-hacking/docs/eh-fundamentals/eh-1/osint-automation/</loc>
   </url><url>
     <loc>http://localhost:1313/ethical-hacking/docs/eh-fundamentals/</loc>
+    <lastmod>2024-07-11T14:14:05+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/ethical-hacking/tags/</loc>
   </url>
